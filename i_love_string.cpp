@@ -10,7 +10,7 @@ int main() {
     string total_result = "";
     int maxlength = max(s.size(),t.size());
     for(int i = 0;i<maxlength;i++){
-        if(i<s.size()){
+         if(i<s.size()){
             total_result +=s[i];
             
         }
