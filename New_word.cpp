@@ -12,7 +12,7 @@ int main(){
     }
    int total_count = min({freq['E'], freq['G'], freq['Y'], freq['P'], freq['T']});
    cout << total_count << endl;
-
+  
 
     return 0;
 }
